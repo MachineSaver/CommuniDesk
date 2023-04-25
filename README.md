@@ -9,3 +9,9 @@ https://mydraft.cc/ch40hqp5je2nd1j0qb0g
 
 # Connection Page
 ![image](https://user-images.githubusercontent.com/64045074/234358160-7f1c3150-970a-4e8c-b2bf-3753fc849fe3.png)
+
+# Web User Interface
+![image](https://user-images.githubusercontent.com/64045074/234358537-97d50c04-1139-4594-a4ab-595a38b783b5.png)
+![image](https://user-images.githubusercontent.com/64045074/234358663-b4757331-2d2b-48be-9ef6-ab2b52535c0d.png)
+
+
