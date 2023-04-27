@@ -1,4 +1,4 @@
-# Secure_Sidekick
+# CommuniDesk
 A secure, cross platform, free, opensource TeamViewer/AnyDesk alternative based on TightVNC and Wireguard.
 
 # Wireframe for User Interface
